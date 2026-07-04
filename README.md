@@ -295,7 +295,6 @@ Now   ●───  Building AI-native full-stack systems & preparing for SWE/AI
 
 <div align="center">
 
- I've asked AI to explain its own bugs — it apologized
  Some of my best commits happen after midnight
  I learn best by breaking things, then fixing them properly
 
@@ -333,6 +332,6 @@ or just want to talk tech — my inbox is always open.
 
 <div align="center">
 
-** From [Yashwanth M](https://github.com/yashwanthyashu514) — thank you!**
+ From [Yashwanth M](https://github.com/yashwanthyashu514) — thank you!
 
 </div>
