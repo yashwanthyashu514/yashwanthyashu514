@@ -26,15 +26,13 @@
 <a href="https://github.com/yashwanthyashu514">
   <img src="https://img.shields.io/badge/GitHub-yashwanthyashu514-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0F0C29"/>
 </a>
-<a href="mailto:your.email@example.com">
+<a href="mailto:yy6996843@gmail.com">
   <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0F0C29"/>
 </a>
-<a href="https://linkedin.com/in/yourprofile">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/yashwanth-m-74034230b?utm_source=share_via&utm_content=profile&utm_medium=member_android">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0F0C29"/>
 </a>
-<a href="https://twitter.com/yourhandle">
-  <img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=0F0C29"/>
-</a>
+
 
 <br/><br/>
 
@@ -51,7 +49,7 @@
 <!--  ABOUT ME                                                     -->
 <!-- ============================================================ -->
 
-<h2 align="center">🧠 About Me</h2>
+<h2 align="center">About Me</h2>
 
 <table align="center">
 <tr>
@@ -93,8 +91,7 @@ Advanced ML Systems · Distributed Architecture
 **🎓 Background**
 Computer Science Engineering
 
-**💬 Ask Me About**
-React · Node.js · LLM Integration · System Design
+
 
 </td>
 </tr>
@@ -172,7 +169,7 @@ React · Node.js · LLM Integration · System Design
 <!--  FEATURED PROJECTS                                            -->
 <!-- ============================================================ -->
 
-<h2 align="center">🚀 Featured Projects</h2>
+<h2 align="center"> Projects</h2>
 
 <table align="center" width="100%">
 <tr>
@@ -284,7 +281,7 @@ code quality, and documentation across all the projects above.
 <!--  JOURNEY / TIMELINE                                           -->
 <!-- ============================================================ -->
 
-<h2 align="center">🛤️ My Journey</h2>
+<h2 align="center"> My Journey</h2>
 
 ```text
 2022  ●───  Started B.E. in Computer Science Engineering
@@ -294,7 +291,7 @@ code quality, and documentation across all the projects above.
 Now   ●───  Building AI-native full-stack systems & preparing for SWE/AI roles
 ```
 
-<h2 align="center">🎯 Goals</h2>
+<h2 align="center"> Goals</h2>
 
 <div align="center">
 
@@ -312,15 +309,13 @@ Now   ●───  Building AI-native full-stack systems & preparing for SWE/AI
 <!--  FUN FACTS                                                    -->
 <!-- ============================================================ -->
 
-<h2 align="center">🎲 Fun Facts</h2>
+<h2 align="center"> Fun Facts</h2>
 
 <div align="center">
 
-🔭 I ship side-projects faster than I finish binge-watching a series
-⚡ My IDE theme is darker than my coffee
-🤖 I've asked AI to explain its own bugs — it apologized
-🌙 Some of my best commits happen after midnight
-📚 I learn best by breaking things, then fixing them properly
+ I've asked AI to explain its own bugs  it apologized
+ Some of my best commits happen after midnight
+ I learn best by breaking things, then fixing them properly
 
 </div>
 
@@ -338,10 +333,10 @@ I'm actively open to **Full Stack** and **AI Engineering** roles where
 I can build impactful, scalable products. If you're hiring, collaborating,
 or just want to talk tech — my inbox is always open.
 
-<a href="mailto:your.email@example.com">
+<a href="mailto:yy6996843@gmail.com">
   <img src="https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-<a href="https://linkedin.com/in/yourprofile">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/yashwanth-m-74034230b?utm_source=share_via&utm_content=profile&utm_medium=member_android">
   <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="https://github.com/yashwanthyashu514">
