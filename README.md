@@ -152,45 +152,19 @@ React · Node.js · LLM Integration · System Design
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F0FF,100:B983FF&height=3&width=100%"/>
 
 <!-- ============================================================ -->
-<!--  GITHUB ANALYTICS                                             -->
+<!--  CONTRIBUTION SNAKE ANIMATION                                  -->
 <!-- ============================================================ -->
 
-<h2 align="center">📊 GitHub Analytics</h2>
+<h2 align="center">🐍 Contribution Snake</h2>
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=yashwanthyashu514&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=B983FF&text_color=C9D1D9&ring_color=00F0FF"/>
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=yashwanthyashu514&theme=tokyonight&hide_border=true&background=0D1117&ring=00F0FF&fire=B983FF&currStreakLabel=00F0FF"/>
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashwanthyashu514&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=C9D1D9&langs_count=8"/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yashwanthyashu514&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00F0FF&line=B983FF&point=FFFFFF"/>
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=yashwanthyashu514&theme=algolia&no-frame=true&no-bg=true&margin-w=15&row=1&column=6"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yashwanthyashu514/yashwanthyashu514/output/github-contribution-grid-snake-dark.svg"/>
+  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/yashwanthyashu514/yashwanthyashu514/output/github-contribution-grid-snake-dark.svg"/>
+</picture>
 
 </div>
-
-<details>
-<summary align="center"><b>🐍 Contribution Snake Animation (click to expand)</b></summary>
-<br/>
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/yashwanthyashu514/yashwanthyashu514/output/github-contribution-grid-snake-dark.svg"/>
-
-> ℹ️ **Setup note:** the snake animation requires a one-time GitHub Actions
-> workflow (`platane/snk`) added to your profile repo. Add the workflow
-> file below to generate this SVG automatically every day.
-
-</div>
-
-</details>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:B983FF,100:00F0FF&height=3&width=100%"/>
 
