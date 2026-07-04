@@ -64,7 +64,7 @@ not just flashier.
 
 <br/>
 
-> *"Code is like humor.When you have to explainit, Good ones code."*
+> *"Code is like humor.When you have to explain it, Good ones code."*
 > 
 >  **Yashwanth M**
 
