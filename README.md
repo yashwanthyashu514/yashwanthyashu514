@@ -54,18 +54,19 @@
 
 I'm a **Full Stack Developer & AI Engineer** who enjoys turning ambiguous
 problems into production-grade software. My work sits at the intersection
-of **web engineering** and **applied AI** — from building complete
+of **web engineering** and **applied AI** from building complete
 platforms with React and Node.js, to integrating LLMs like **Gemini**
 and **OpenAI** into real products that people actually use.
 
 I care about **clean architecture**, **scalable systems**, and **thoughtful
-UX** — and I'm constantly exploring how AI can make software smarter,
+UX**  and I'm constantly exploring how AI can make software smarter,
 not just flashier.
 
 <br/>
 
-> *"Code is like humor. When you have to explain it, it's bad."*
-> — **Cory House**
+> *"Code is like humor.When you have to explainit, Good ones codeb."*
+
+>  **-Yashwanth M**
 
 </div>
 
