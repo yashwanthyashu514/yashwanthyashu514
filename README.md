@@ -1,16 +1,30 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Yashwanth M</h1>
 
-<!--
-**yashwanthyashu514/yashwanthyashu514** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+Full Stack Developer | AI Enthusiast | Computer Science Student
+</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;AI+Application+Developer;React+%7C+Node.js+%7C+MongoDB;Building+Real+World+Projects;Always+Learning+New+Technologies"/>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+# 👨‍💻 About Me
+
+🎓 Computer Science Engineering Student
+
+💻 Passionate about Full Stack Development
+
+🤖 AI Enthusiast
+
+🚀 Building Real World Applications
+
+🌱 Currently Learning
+
+- Next.js
+- PostgreSQL
+- Docker
+- AI Integrations
+
+📍 India
