@@ -29,10 +29,9 @@
 <a href="mailto:yy6996843@gmail.com">
   <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0F0C29"/>
 </a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/yashwanth-m-74034230b?utm_source=share_via&utm_content=profile&utm_medium=member_android">
+<a href="https://www.linkedin.com/in/yashwanth-m-74034230b">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0F0C29"/>
 </a>
-
 
 <br/><br/>
 
@@ -49,20 +48,9 @@
 <!--  ABOUT ME                                                     -->
 <!-- ============================================================ -->
 
-<h2 align="center">About Me</h2>
+<h2 align="center"> About Me</h2>
 
-<table align="center">
-<tr>
-<td width="60%" valign="top">
-
-```yaml
-yashwanth:
-  role: "Computer Science Engineering Student"
-  focus: ["Full Stack Development", "Artificial Intelligence", "System Design"]
-  currently_building: "AI-powered products that solve real problems"
-  philosophy: "Ship fast. Learn faster. Scale thoughtfully."
-  fun_fact: "I debug in my dreams — and sometimes I fix the bug"
-```
+<div align="center">
 
 I'm a **Full Stack Developer & AI Engineer** who enjoys turning ambiguous
 problems into production-grade software. My work sits at the intersection
@@ -74,28 +62,22 @@ I care about **clean architecture**, **scalable systems**, and **thoughtful
 UX** — and I'm constantly exploring how AI can make software smarter,
 not just flashier.
 
-</td>
-<td width="40%" valign="top" align="center">
+<br/>
 
 > *"Code is like humor. When you have to explain it, it's bad."*
 > — **Cory House**
 
+</div>
+
 <br/>
 
-**🎯 Current Focus**
-Machine Learning · System Design · Cloud Computing
+<div align="center">
 
-**🌱 Currently Learning**
-Advanced ML Systems · Distributed Architecture
+|  Current Focus |  Currently Learning |  Background |
+|:---:|:---:|:---:|
+| Machine Learning · System Design · Cloud Computing | Advanced ML Systems · Distributed Architecture | Computer Science Engineering |
 
-**🎓 Background**
-Computer Science Engineering
-
-
-
-</td>
-</tr>
-</table>
+</div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:B983FF,100:00F0FF&height=3&width=100%"/>
 
@@ -152,7 +134,7 @@ Computer Science Engineering
 <!--  CONTRIBUTION SNAKE ANIMATION                                  -->
 <!-- ============================================================ -->
 
-<h2 align="center">🐍 Contribution Snake</h2>
+<h2 align="center"> Contribution Snake</h2>
 
 <div align="center">
 
@@ -169,7 +151,7 @@ Computer Science Engineering
 <!--  FEATURED PROJECTS                                            -->
 <!-- ============================================================ -->
 
-<h2 align="center"> Projects</h2>
+<h2 align="center">Projects</h2>
 
 <table align="center" width="100%">
 <tr>
@@ -183,10 +165,10 @@ question bank with AI-assisted question generation, OMR evaluation,
 and role-based dashboards for teachers, admins, and students.
 
 **Highlights**
--  Smart question bank with AI-generated question sets
--  Automated OMR sheet evaluation
--  Dedicated Teacher / Admin / Student dashboards
--  Full online exam engine with real-time analytics
+- Smart question bank with AI-generated question sets
+- Automated OMR sheet evaluation
+- Dedicated Teacher / Admin / Student dashboards
+- Full online exam engine with real-time analytics
 
 `React` `Node.js` `AI/ML` `Dashboards` `Analytics`
 
@@ -201,10 +183,10 @@ medical information, enabling first responders to access a patient's
 history instantly during emergencies.
 
 **Highlights**
--  Instant QR-based medical record access
--  Gemini AI for smart data summarization
--  Secure, privacy-conscious data handling
--  Mobile-friendly emergency-ready UI
+- Instant QR-based medical record access
+- Gemini AI for smart data summarization
+- Secure, privacy-conscious data handling
+- Mobile-friendly emergency-ready UI
 
 `React` `Node.js` `MongoDB` `Gemini AI`
 
@@ -221,10 +203,10 @@ using AI to personalize content pacing, format, and interaction
 style to each learner's needs.
 
 **Highlights**
--  AI-personalized learning paths
--  Adaptive content difficulty & pacing
--  Built with accessibility as a core principle
--  Progress tracking for educators
+- AI-personalized learning paths
+- Adaptive content difficulty & pacing
+- Built with accessibility as a core principle
+- Progress tracking for educators
 
 `React` `Express` `OpenAI API`
 
@@ -235,14 +217,14 @@ style to each learner's needs.
 **Modern Dairy Operations Platform**
 
 A complete business management suite for dairy operations, covering
-billing, client management, and reporting  paired with a companion
+billing, client management, and reporting — paired with a companion
 Android app for on-the-go access.
 
 **Highlights**
--  Automated billing & invoicing
--  Client & subscription management
--  Business reports & insights
--  Native Android companion app
+- Automated billing & invoicing
+- Client & subscription management
+- Business reports & insights
+- Native Android companion app
 
 `React` `Node.js` `Android` `Reporting`
 
@@ -313,7 +295,7 @@ Now   ●───  Building AI-native full-stack systems & preparing for SWE/AI
 
 <div align="center">
 
- I've asked AI to explain its own bugs  it apologized
+ I've asked AI to explain its own bugs — it apologized
  Some of my best commits happen after midnight
  I learn best by breaking things, then fixing them properly
 
@@ -325,7 +307,7 @@ Now   ●───  Building AI-native full-stack systems & preparing for SWE/AI
 <!--  CONNECT                                                      -->
 <!-- ============================================================ -->
 
-<h2 align="center">Let's Connect & Build Something Great</h2>
+<h2 align="center"> Let's Connect & Build Something Great</h2>
 
 <div align="center">
 
@@ -336,7 +318,7 @@ or just want to talk tech — my inbox is always open.
 <a href="mailto:yy6996843@gmail.com">
   <img src="https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/yashwanth-m-74034230b?utm_source=share_via&utm_content=profile&utm_medium=member_android">
+<a href="https://www.linkedin.com/in/yashwanth-m-74034230b">
   <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="https://github.com/yashwanthyashu514">
