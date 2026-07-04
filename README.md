@@ -103,7 +103,7 @@ Computer Science Engineering
 <!--  TECH STACK                                                   -->
 <!-- ============================================================ -->
 
-<h2 align="center">⚡ Tech Stack</h2>
+<h2 align="center"> Tech Stack</h2>
 
 <div align="center">
 
@@ -183,10 +183,10 @@ question bank with AI-assisted question generation, OMR evaluation,
 and role-based dashboards for teachers, admins, and students.
 
 **Highlights**
-- 🧩 Smart question bank with AI-generated question sets
-- 📝 Automated OMR sheet evaluation
-- 👨‍🏫 Dedicated Teacher / Admin / Student dashboards
-- 💻 Full online exam engine with real-time analytics
+-  Smart question bank with AI-generated question sets
+-  Automated OMR sheet evaluation
+-  Dedicated Teacher / Admin / Student dashboards
+-  Full online exam engine with real-time analytics
 
 `React` `Node.js` `AI/ML` `Dashboards` `Analytics`
 
@@ -201,10 +201,10 @@ medical information, enabling first responders to access a patient's
 history instantly during emergencies.
 
 **Highlights**
-- ⚡ Instant QR-based medical record access
-- 🤖 Gemini AI for smart data summarization
-- 🔐 Secure, privacy-conscious data handling
-- 📱 Mobile-friendly emergency-ready UI
+-  Instant QR-based medical record access
+-  Gemini AI for smart data summarization
+-  Secure, privacy-conscious data handling
+-  Mobile-friendly emergency-ready UI
 
 `React` `Node.js` `MongoDB` `Gemini AI`
 
@@ -221,10 +221,10 @@ using AI to personalize content pacing, format, and interaction
 style to each learner's needs.
 
 **Highlights**
-- 🧠 AI-personalized learning paths
-- 🎯 Adaptive content difficulty & pacing
-- ♿ Built with accessibility as a core principle
-- 📊 Progress tracking for educators
+-  AI-personalized learning paths
+-  Adaptive content difficulty & pacing
+-  Built with accessibility as a core principle
+-  Progress tracking for educators
 
 `React` `Express` `OpenAI API`
 
@@ -235,14 +235,14 @@ style to each learner's needs.
 **Modern Dairy Operations Platform**
 
 A complete business management suite for dairy operations, covering
-billing, client management, and reporting — paired with a companion
+billing, client management, and reporting  paired with a companion
 Android app for on-the-go access.
 
 **Highlights**
-- 💳 Automated billing & invoicing
-- 👥 Client & subscription management
-- 📈 Business reports & insights
-- 📱 Native Android companion app
+-  Automated billing & invoicing
+-  Client & subscription management
+-  Business reports & insights
+-  Native Android companion app
 
 `React` `Node.js` `Android` `Reporting`
 
@@ -325,7 +325,7 @@ Now   ●───  Building AI-native full-stack systems & preparing for SWE/AI
 <!--  CONNECT                                                      -->
 <!-- ============================================================ -->
 
-<h2 align="center">🤝 Let's Connect & Build Something Great</h2>
+<h2 align="center">Let's Connect & Build Something Great</h2>
 
 <div align="center">
 
@@ -351,6 +351,6 @@ or just want to talk tech — my inbox is always open.
 
 <div align="center">
 
-**⭐ From [yashwanthyashu514](https://github.com/yashwanthyashu514) — thanks for stopping by!**
+** From [Yashwanth M](https://github.com/yashwanthyashu514) — thank you!**
 
 </div>
